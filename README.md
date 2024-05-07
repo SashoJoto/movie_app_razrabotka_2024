@@ -1,1 +1,3 @@
-# movie_app_razrabotka_2024
+# Movie app
+
+The repository contains the necessary code for the movie app.
